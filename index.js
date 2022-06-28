@@ -20,3 +20,4 @@ function submitData(name,email){
             document.body.innerHTML = error.message
         } ) 
 
+    }
